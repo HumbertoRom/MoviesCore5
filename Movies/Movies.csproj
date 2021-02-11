@@ -19,6 +19,8 @@
 
   <ItemGroup>
     <Folder Include="Dtos\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\Actors\" />
   </ItemGroup>
 
 </Project>
